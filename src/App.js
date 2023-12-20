@@ -13,7 +13,6 @@ const BemVindo = (props) => {
   );
 }
 
-
 function App() {
   return (
     <div className="App">
